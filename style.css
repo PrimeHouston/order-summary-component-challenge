@@ -2,7 +2,7 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
-    height:100vh;
+    height:100dvh;
     background-image: url(images/pattern-background-desktop.svg) ;
     background-repeat: no-repeat;
     background-color:hsl(225, 100%, 94%);
